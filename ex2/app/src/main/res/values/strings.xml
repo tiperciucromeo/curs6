@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex2</string>
+    <string name="title_activity_four">activity_four</string>
+    <string name="button3">Button3</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="main_activity">Main activity</string>
+</resources>
